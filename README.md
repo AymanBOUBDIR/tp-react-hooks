@@ -59,8 +59,8 @@ Pour l'exercice 1.2, nous avons implémenté un hook personnalisé `useDebounce`
 
 [Ajoutez vos captures d'écran]
 ```
-![alt text](image-5.png)
-![alt text](image-6.png)
+![alt text](assets/image-5.png)
+![alt text](assets/image-6.png)
 
 ### Exercice 2 : Context et Internationalisation
 #### Objectif : Gérer les préférences de langue
@@ -76,9 +76,9 @@ Pour l'exercice 2.1, nous avons créé un `LanguageContext` pour gérer les pré
 Pour l'exercice 2.2, nous avons ajouté un composant `LanguageSelector` qui permet à l'utilisateur de sélectionner sa langue préférée. Ce composant utilise le `LanguageContext` pour mettre à jour la langue sélectionnée.
 
 [Ajoutez vos captures d'écran]
-![alt text](image-3.png)
-![alt text](image-4.png)
 
+![alt text](public/assets/image-3.png)
+![alt text](public/assets/image-4.png)
 
 ### Exercice 3 : Hooks Personnalisés
 #### Objectif : Créer des hooks réutilisables
@@ -94,8 +94,8 @@ Pour l'exercice 3.1, nous avons créé un hook personnalisé `useDebounce` qui p
 Pour l'exercice 3.2, nous avons créé un hook personnalisé `useLocalStorage` qui permet de gérer l'état avec le stockage local. Ce hook facilite la lecture et l'écriture dans le `localStorage` du navigateur, permettant de persister les données entre les sessions.
 
 [Ajoutez vos captures d'écran]
-![alt text](image.png)
-![alt text](image-1.png)
+![alt text](public/assets/image.png)
+![alt text](public/assets/image-1.png)
 
 ### Exercice 4 : Gestion Asynchrone et Pagination
 #### Objectif : Gérer le chargement et la pagination
@@ -111,7 +111,8 @@ Pour l'exercice 4.1, nous avons ajouté un bouton de rechargement dans le compos
 Pour l'exercice 4.2, nous avons implémenté la pagination dans le composant `ProductList`. Cela permet de naviguer entre les pages de produits en utilisant les boutons "Précédent" et "Suivant".
 
 [Ajoutez vos captures d'écran]
-![alt text](image-2.png)
+
+![alt text](public/assets/image-2.png)
 
 ## Rendu
 
